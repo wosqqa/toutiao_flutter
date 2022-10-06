@@ -49,12 +49,12 @@ flutter 优点主要包括：
 
 #### 初始项目目录结构
 
-![目录结构](public/img/目录结构.png)
+![目录结构](./public/img/目录结构.png)
 
 ### 2、基础控件布局
 
-<img src="public/img/helloflutter.jpg" height="760" width="360" >
-<img src="public/img/main.dart.png" height="310" width="570" >
+<img src="./public/img/helloflutter.jpg" height="760" width="360" >
+<img src="./public/img/main.dart.png" height="310" width="570" >
 
 ##### [Tabbar 控件](https://book.flutterchina.club/chapter5/material_scaffold.html)
 
